@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +105,33 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+/*structural*/
+
+/*table { table-layout:fixed; }
+th { }
+thead tr th { top:0; }
+thead tr th:first-of-type { left:0; z-index:1; }
+tbody th { left:0; }
+
+/*styling*/
+
+/*tbody tr:nth-of-type(odd) td:nth-of-type(odd),
+tbody tr:nth-of-type(even) td:nth-of-type(even){
+  background:#eee;
+}
+
+th, td {
+  text-align:center;
+  vertical-align:middle;
+}
+
+th {
+  padding:2.3ch;
+  background:#222;
+  color:#eee;
+  border: 1px solid #4f4f4d;
 }
 
 #contact h1 {
