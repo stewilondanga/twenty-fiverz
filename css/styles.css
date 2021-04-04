@@ -120,12 +120,12 @@ tbody th {
 }
 
 /*styling*/
-/*tbody tr:nth-of-type(odd) td:nth-of-type(odd),
-tbody tr:nth-of-type(even) td:nth-of-type(even){
-  background:#eee;
+tbody tr:nth-of-type(odd) td:nth-of-type(odd),
+tbody tr:nth-of-type(even) td:nth-of-type(even) {
+  background: #eee;
 }
 
-th, td {
+/*th, td {
   text-align:center;
   vertical-align:middle;
 }
