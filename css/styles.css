@@ -1,10 +1,4 @@
-/*body {
-  text-align: center;
-  font-family: courier;
-  background-image: url("../assets/image.jpeg");
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
+/*
 
 .share__icon {
   width: 32px;
@@ -108,7 +102,6 @@
 }
 
 /*structural*/
-
 /*table { table-layout:fixed; }
 th { }
 thead tr th { top:0; }
@@ -116,7 +109,6 @@ thead tr th:first-of-type { left:0; z-index:1; }
 tbody th { left:0; }
 
 /*styling*/
-
 /*tbody tr:nth-of-type(odd) td:nth-of-type(odd),
 tbody tr:nth-of-type(even) td:nth-of-type(even){
   background:#eee;
