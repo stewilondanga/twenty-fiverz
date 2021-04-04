@@ -130,14 +130,14 @@ th, td {
   vertical-align: middle;
 }
 
-/*th {
-  padding:2.3ch;
-  background:#222;
-  color:#eee;
+th {
+  padding: 2.3ch;
+  background: #222;
+  color: #eee;
   border: 1px solid #4f4f4d;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
